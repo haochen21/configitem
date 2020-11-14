@@ -15,7 +15,7 @@ public class ConfigItem {
 
     private Long id;
 
-    private Type type;
+    private ConfigType type;
 
     private Map<String, Object> propertyValues = new HashMap<>();
 

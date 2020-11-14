@@ -4,9 +4,9 @@ import cn.com.betasoft.dmp.configitem.domain.model.valueobjects.Cardinality;
 
 public class Relation {
 
-    private Type sourceType;
+    private ConfigType sourceType;
 
-    private Type targetType;
+    private ConfigType targetType;
 
     private String relationName;
 
